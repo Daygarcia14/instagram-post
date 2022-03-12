@@ -49,9 +49,14 @@ body{
     align-items: center;
 }
 
-.camara{
-    font-size: 20px;
-    padding: 10px;
+.foto1{
+    height: 50px;   
+    width: 50pX;
+    border-radius: 40px;
+    margin: 5px;
+    background-image: url(foto.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .menu{
     padding: 15px;
